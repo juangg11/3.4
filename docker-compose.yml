@@ -1,0 +1,5 @@
+services:
+  web:
+    image: juangg04/nginx-2048:latest
+    ports:
+      - "80:80"
